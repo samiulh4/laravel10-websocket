@@ -21,3 +21,4 @@ Cpmposer-2.7.7
 4. php artisan vendor:publish --provider="BeyondCode\LaravelWebSockets\WebSocketsServiceProvider" --tag="config"
 
 5. composer require pusher/pusher-php-server "~3.0"
+/composer require pusher/pusher-php-server -W
